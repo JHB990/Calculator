@@ -1,7 +1,7 @@
 # Calculator
 Calculadora - básicos Python
 
-Practica con ocnocimientos elementales de python, usando funciones y bucles.
+Practica con conocimientos elementales de python, usando funciones y bucles.
 
 Calculator - Python basics
 
